@@ -1,0 +1,43 @@
+	  {% include head.html %}
+
+
+<body id="page-top">
+    
+	  {% include navbar2.html %}
+
+	
+	<article class="post" lang="{{ page.lang | default: site.lang | default: "en" }}" itemscope itemtype="http://schema.org/BlogPosting" >
+
+    <div class="post-content" itemprop="articleBody">     
+    
+<div>
+    
+	
+    <header class="d-flex article-header-txt" style="overflow: hidden;background-color: white;">
+		<h1 class="mb-1 articleheader" >{{ page.title | escape }}</h1>
+    <h2 class="mb-5 articleheader">{{ page.author | escape }}</h3>
+<picture class="firstimg">
+				<source type="image/webp" srcset="{{ page.cover | escape }}.webp" >
+				<img src="{{ page.cover | escape }}.jpg" loading="lazy" class="firstimg" alt="{{ page.title | escape }} - {{ page.author | escape }}"/>
+				</picture>
+    </header>
+		
+	
+	
+    <div class="text-justify article-clean" data-aos="fade" id="art" style="background-position: center;background-size: cover; padding-top: {{ page.paddingtop | escape }};">
+	{{ content }}
+        
+	
+	    
+</div>
+  </div>
+
+      </div>
+
+</article>
+
+{% include footer.html %}
+	
+</body>
+
+</html>
