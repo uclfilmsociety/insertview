@@ -383,15 +383,15 @@ background-size: cover;
 }
 
 .webp .primero {
-	background-image: url(/assets/img/issue1/portrait.webp)
+	background-image: url(/assets/img/issue1/cover.webp)
 }
 
 .no-webp .primero {
-	background-image: url(/assets/img/issue1/portrait.jpg)
+	background-image: url(/assets/img/issue1/cover.jpg)
 }
 
 .no-js .primero {
-	background-image: url(/assets/img/issue1/portrait.jpg)
+	background-image: url(/assets/img/issue1/cover.jpg)
 }
 
 
