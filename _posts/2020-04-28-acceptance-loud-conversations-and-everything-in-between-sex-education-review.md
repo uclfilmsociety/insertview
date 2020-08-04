@@ -10,10 +10,10 @@ bgurl: /assets/img/issue1/gabriele/1
 paddingtop: "35px"
 ---
 
-<p id="first-paragraph">*Sex Education*, the buzzed-about Netflix series, recently released its
+<p id="first-paragraph"><i>Sex Education</i>, the buzzed-about Netflix series, recently released its
 second season. For many, the show's main draw is its humour. For me, it
 was an exposure of human vulnerability. Sex and sexuality make us
-vulnerable and *Sex Education* perfectly captures that. While
+vulnerable and <i>Sex Education</i> perfectly captures that. While
 incorporating romantic comedy tropes, the show strayed from its
 'perfect' narrative and exposed sex beyond its romantic implications. It
 unravelled multiplicities and withered from 'universal' flawless

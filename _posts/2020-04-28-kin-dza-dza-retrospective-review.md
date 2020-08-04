@@ -10,7 +10,7 @@ bgurl: /assets/img/bg/issue1/kindza
 paddingtop: "35px"
 ---
 
-<p id="first-paragraph">Throughout the majority of *Kin Dza-Dza*, half of the characters only
+<p id="first-paragraph">Throughout the majority of <i>Kin Dza-Dza</i>, half of the characters only
 communicate by saying either "Koo" or "Kyu", and one of the two words is
 a grave insult. This is a movie that smothers you with the illusory
 comfort of nonsense, a sci-fi fantasy about aliens that use old
@@ -18,11 +18,11 @@ matchsticks as currency. The film was released in 1986, just a few years
 before the collapse of the Soviet Union. For decades, citizens of the
 USSR had lived under the safe predictability of communism for the
 majority of their lifetimes. Now, the Iron Curtain was wobbling and a
-chasm of uncertainty was opening. *Kin Dza-Dza* is a sceptical product
+chasm of uncertainty was opening. <i>Kin Dza-Dza</i> is a sceptical product
 of its time, comedic but radiating with the anger and fear that plagued
 many people during that time. The Soviet regime had a common language,
 shared traditions and political ideals, and a place in the world that
-they could point to and call home. *Kin Dza-Dza* puts the average Soviet
+they could point to and call home. <i>Kin Dza-Dza</i> puts the average Soviet
 in an uncomfortable world where Yekaterinburg and Kuybyshev are only
 made-up words that confuse the alien beings around them, where "East"
 and "West" mean nothing. The plot revolves around the journey of two men

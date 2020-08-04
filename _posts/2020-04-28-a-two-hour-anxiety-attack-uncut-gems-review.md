@@ -10,7 +10,7 @@ bgurl: /assets/img/issue1/noah/1
 paddingtop: "35px"
 ---
 
-<p id="first-paragraph">Uncut Gems, the Safdie brothers' latest film, is a love letter to
+<p id="first-paragraph"><i>Uncut Gems</i>, the Safdie brothers' latest film, is a love letter to
 Manhattan's Diamond District and the shysters who run it. It's a homage
 to cheaters who make a lot of money and try desperately to juggle their
 vices with their families. Fittingly, the film stars Adam Sandler as
@@ -35,7 +35,7 @@ a high stakes roulette game; you don't know what's going to happen, but
 you do know that if the Celtics don't win the game, things aren\'t going
 to end well for Howard.
 
-Uncut Gems is not easy to watch, so if you're prone to anxiety - proceed
+*Uncut Gems* is not easy to watch, so if you're prone to anxiety - proceed
 with caution. Alongside the bet, Howard is trying to salvage his
 marriage with soon to be ex-wife (Idina Menzel) and focuses all his
 sexual frustration toward his mistress (Julia Fox.). In one particularly
@@ -44,8 +44,8 @@ with The Weeknd at a club (yes, that The Weeknd), and attacks him before
 storming off.
 
 Sandler is beyond good in a role that feels out of character when
-compared to his previous work in films like Happy Gilmore and Billy
-Madison. Howard is a crook, yes, but we like him because he's an
+compared to his previous work in films like *Happy Gilmore* and *Billy
+Madison*. Howard is a crook, yes, but we like him because he's an
 unabashed optimist, a go-getter, a hard worker who never gives up on his
 dream to make a shit ton of cash. The Safdie brothers never criticize
 him because of his flaws, and we don't either. Instead, the film makes
