@@ -18,13 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "insert:view"
+title: "insert:view - UCL Film & TV Society's magazine"
 author: insertview
 email: uclfilmsociety@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ insert:view magazine, founded in Spring 2020, is the University College London’s first 
+ and only multimedia publication dedicated to film and television. Housed within UCL’s Film 
+ and Television Society, insert:view is written, edited, and designed by students. The magazine produces 
+ a variety of content – including reviews, listicles, and essays – that reflect the myriad of backgrounds 
+ and perspectives its writers and readers bring to the table. 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://demo.insertview.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year/:categories/:title
