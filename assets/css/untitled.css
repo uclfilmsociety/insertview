@@ -88,6 +88,9 @@
 	unicode-range: U+000-5FF;
 }
 
+@namespace svg url(http://www.w3.org/2000/svg);
+/* Necessary to select only SVG <a> elements, and not also HTML’s.
+   See warning below */
 
 @media (max-width:700px) {
 	.icon {
@@ -434,6 +437,20 @@ background-size: cover;
 	font-family: 'Eldorado Text';
 }
 
+.mcform {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	font-family:'Nitti Grotesk', sans-serif;
+}
+
+.mc-field-group.clear.freetxt {
+	flex: 1 1 auto;
+}
+
 
 
 .titulo {
@@ -448,9 +465,7 @@ background-size: cover;
 }
 
 
-@namespace svg url(http://www.w3.org/2000/svg);
-/* Necessary to select only SVG <a> elements, and not also HTML’s.
-   See warning below */
+
 
 svg|a:link, svg|a:visited {
   cursor: pointer;
@@ -958,3 +973,5 @@ img.postthumb {
 .items {
 	line-height: 1em;
 }
+
+
