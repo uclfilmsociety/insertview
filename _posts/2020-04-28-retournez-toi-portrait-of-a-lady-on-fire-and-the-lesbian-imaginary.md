@@ -219,7 +219,15 @@ painting. She takes in Gentileschi's gore, my buzzcut and combat boots,
 then waggles her eyebrows at me. We look, across language and art and
 time.
 
-*Works cited:*
+
+<br />
+
+
+<br />
+
+
+
+<p style="padding-top: 40px;"><i>Works cited:</i></p>
 
 >Ginzberg, Ruth. 1992. Audre Lorde\'s (Nonessentialist) Lesbian Eros.
 >*Hypatia*, 7:4, Lesbian Philosophy (Autumn, 1992), pp. 73-90.
