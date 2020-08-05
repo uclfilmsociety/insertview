@@ -36,6 +36,7 @@ markdown: kramdown
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-sitemap
   
 kramdown:
  auto_id_prefix: titulos_
