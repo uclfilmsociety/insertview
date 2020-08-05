@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  a variety of content – including reviews, listicles, and essays – that reflect the myriad of backgrounds 
  and perspectives its writers and readers bring to the table. 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://demo.insertview.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://insertview.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year/:categories/:title
 
 # Build settings
